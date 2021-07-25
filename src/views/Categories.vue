@@ -41,7 +41,7 @@
 </template>
 
 <script>
-import CategoriesForm from "@/components/app/CategoriesForm";
+import CategoriesForm from "@/components/CategoriesForm";
 
 export default {
   name: "categories",
